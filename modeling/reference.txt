@@ -5,3 +5,5 @@ AN OPERATOR SPLITTING METHOD FOR PRICING THE ELS OPTION
 <Lecture note>
 
 Modeling the Volatility Smile (Emanuel Derman)
+
+Finite Difference Approach to Option Pricing (CS522 Lab Note)
